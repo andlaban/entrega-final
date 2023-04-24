@@ -103,7 +103,7 @@ const peliculasMalas = [
         foto: "./media/peliculas/left-behind.jpg", 
         banner: "./media/peliculas/left-behind-banner.gif",
         nombre: "Left Behind (2014)", 
-        descripcion: "Nic interpreta a un piloto de avion durante el rapture, `<a href='https://www.youtube.com/watch?v=tuJSQ3Aejzs' target='_blank'>es basura</a>'`",
+        descripcion: "Nic interpreta a un piloto de avion durante el rapture, <a href='https://www.youtube.com/watch?v=v4T5eXdL4go' target='_blank'>es basura</a>.",
         precio: 1000
     },
     {
